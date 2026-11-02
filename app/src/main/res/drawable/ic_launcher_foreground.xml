@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Receipt with a torn (zig-zag) bottom edge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,29 L71,29 L71,79 L67,75 L63,79 L59,75 L55,79 L51,75 L47,79 L43,75 L39,79 L37,77 Z" />
+    <!-- Text lines -->
+    <path
+        android:fillColor="#0B5CAD"
+        android:pathData="M42,36 L66,36 L66,39 L42,39 Z M42,43 L66,43 L66,46 L42,46 Z M42,50 L58,50 L58,53 L42,53 Z" />
+    <!-- Total line -->
+    <path
+        android:fillColor="#F28C28"
+        android:pathData="M52,61 L66,61 L66,66 L52,66 Z" />
+</vector>
